@@ -46,13 +46,13 @@ global.saweria = ['https://saweria.co/GuaAbuzz']
 
 //—————「 Set Kebutuhan Button 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :)
-global.github = 'https://github.com/Abuzzpoet'
+global.github = 'https://github.com/Ghilar'
 global.scbot = 'https://github.com/Abuzzpoet/Akame'
 global.myweb = 'https://tiktok.com/@guaabuzz'
 
 //—————「 Set Wm 」—————//
-global.packname = 'GuaAbuzz'
-global.author = 'WhatsApp Bot'
+global.packname = 'stay halal bang'
+global.author = 'Waduh kok stiker gw lu colong sih anjimeh😅'
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
