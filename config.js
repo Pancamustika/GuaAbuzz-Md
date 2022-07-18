@@ -24,8 +24,8 @@ global.APIKeys = {
 
 //—————「 Set Nama Bot & Own & Agama 」—————//
 //kok pake agama bang? fitur toleransi bang
-global.namabot = 'Akame'
-global.namaowner = 'GuaAbuzz'
+global.namabot = 'Ghilar bot'
+global.namaowner = 'Ghil4r'
 global.agama = 'Islam'
 
 //—————「 Setting Owner 」—————//
