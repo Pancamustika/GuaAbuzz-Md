@@ -19,7 +19,7 @@ global.APIs = {
 //—————「 Website Apikey 」—————//
 global.APIKeys = {
     //gausah di apa² in, beli sendiri key ya :)
-    'https://zenzapis.xyz': 'YOUR_APIKEY',
+    'https://zenzapis.xyz': 'akame-chan>_<',
 }
 
 //—————「 Set Nama Bot & Own & Agama 」—————//
@@ -40,18 +40,18 @@ global.indosat = ['-']
 global.tri = ['628995888005']
 global.smartfren = ['-']
 global.gopay = ['-']
-global.dana = ['-']
+global.dana = ['628995888005']
 global.ovo = ['-']
-global.saweria = ['https://saweria.co/GuaAbuzz']
+global.saweria = ['-']
 
 //—————「 Set Kebutuhan Button 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :)
 global.github = 'https://github.com/Ghilar'
-global.scbot = 'https://github.com/Abuzzpoet/Akame'
-global.myweb = 'https://tiktok.com/@guaabuzz'
+global.scbot = 'https://github.com/Ghilar/Ghilarmd'
+global.myweb = 'https://youtube.com/c/DjGhilarRMX'
 
 //—————「 Set Wm 」—————//
-global.packname = 'stay halal bang'
+global.packname = 'Jangan lupa sholat'
 global.author = 'Waduh kok stiker gw lu colong sih anjimeh😅'
 
 //—————「 Set Nama Session 」—————//
